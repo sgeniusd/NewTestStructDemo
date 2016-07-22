@@ -332,7 +332,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bitauto.application.NewTestStructDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d06104e6-ad33-463a-9bdc-2e1449c7a3f8";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -347,7 +347,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bitauto.application.NewTestStructDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d06104e6-ad33-463a-9bdc-2e1449c7a3f8";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
