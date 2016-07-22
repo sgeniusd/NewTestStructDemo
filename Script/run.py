@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import plistlib
-info = plistlib.readPlist('build/qichehui.app/Info.plist')
+info = plistlib.readPlist('build/NewTestStructDemo.app/Info.plist')
 subtitle = info['CFBundleShortVersionString']
 identifier = info['CFBundleIdentifier']
 bundleVersion = info['CFBundleVersion']
