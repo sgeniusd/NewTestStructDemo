@@ -332,6 +332,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bitauto.application.NewTestStructDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d06104e6-ad33-463a-9bdc-2e1449c7a3f8";
 			};
 			name = Debug;
 		};
@@ -340,11 +341,13 @@
 			baseConfigurationReference = 52F7F68FA2A859113D221BC7 /* Pods-NewTestStructDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Beijing Bitauto Interactive Advertising Co., Ltd";
 				INFOPLIST_FILE = NewTestStructDemo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bitauto.application.NewTestStructDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "d06104e6-ad33-463a-9bdc-2e1449c7a3f8";
 			};
 			name = Release;
 		};
